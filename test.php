@@ -44,18 +44,17 @@
 // static variables
 
 
-function myTestt() {
-    static $x = 0;
-    echo $x;
-    $x++;
-}
+// function myTestt() {
+//     static $x = 0;
+//     echo $x;
+//     $x++;
+// }
 
-myTestt();
+// myTestt();
 
-myTestt();
+// myTestt();
 
-myTestt();
-
+// myTestt();
 
 
 

@@ -8,7 +8,12 @@
 </head>
 <body>
     <?php
-       echo ("header")
+       echo ("header");
+       echo"<h1>Document</h1>";
+        $name ="0123456789";
+        echo substr($name, 4 ,5);
+        echo -40;
+
 
 ?>
 </body>
